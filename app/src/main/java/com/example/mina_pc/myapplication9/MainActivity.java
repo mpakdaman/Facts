@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
+int x =0;
         listView = findViewById(R.id.Textlist);
 
         requestQueue = newRequestQueue(this);
